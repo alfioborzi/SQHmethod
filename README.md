@@ -11,6 +11,25 @@ Solving Optimal Control Problems
 
 1th Edition, CRC Press, 2023.
 
+## DESCRIPTION
+
+The sequential quadratic hamiltonian (SQH) method is a novel numerical optimization procedure for 
+solving optimal control problems governed by differential models. It is based on the characterisation 
+of optimal controls in the framework of the Pontryagin maximum principle (PMP).
+
+The SQH method is a powerful computational methodology that is capable of development in many directions. 
+The book discusses its analysis and use in solving nonsmooth ODE control problems, relaxed ODE control 
+problems, stochastic control problems, mixed-integer control problems, PDE control problems, inverse PDE problems, 
+differential Nash game problems, and problems related to residual neural networks.
+
+This book may serve as a textbook for undergraduate and graduate students, and as an introduction for researchers 
+in sciences and engineering who intend to further develop the SQH method or wish to use it as a numerical tool 
+for solving challenging optimal control problems and for investigating the Pontryagin maximum principle 
+on new optimisation problems.
+
+The book is accompanied by codes which allow the reader to apply the SQH method to solve 
+many different optimal control and optimisation problems.
+
 ## NOTICES
 
 This software is intended for demonstration and instructional purposes only. 
